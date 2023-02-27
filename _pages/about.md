@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Welcome! 
 
 I am a Research/Teaching Assistant in [Ankara Yildirim Beyazit University (AYBU)](https://aybu.edu.tr/iktisat/en), Ankara, Turkey. I earned my Ph.D in European Union Economics and Public Finance Department at [Ankara University](https://www.ankara.edu.tr/en/), Ankara, Turkey. My doctoral research investigated the impact of macroeconomic uncertainty on EU economies, specifically GIIPS (Greece, Ireland, Italy, Portugal, and Spain) countries. I obtained my M.A. in Economics at [Tulane University](https://liberalarts.tulane.edu/departments/economics), New Orleans, United States (US) and B.A. in Labor Economics and Industrial Relations from [Ankara University, Faculty of Political Sciences](http://www.politics.ankara.edu.tr/en/anasayfa-english/). 
