@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+---
 
 My research interests focus on international economics, European Union, and socioeconomic determinants of health. 
 
