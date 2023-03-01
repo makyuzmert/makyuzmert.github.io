@@ -11,7 +11,7 @@ My research explores the impact of international trade and financial movements o
 One strand of research in this area investigates how trade liberalization, foreign direct investment, 
 and globalization shape income inequality in the EU members and OECD countries.
 Another strand of research in this area understands the interaction between trade&financial openness and health.
-My interest in the socioeconomic determinants of health informs policy makers on how international trade-financail transactions
+My interest in the socioeconomic determinants of health informs policy makers on how international trade&financial transactions
 help increase healthy behaviour.These research areas uses advanced econometric methods 
 such as panel cointegration, estimation, and causality considering cross-section dependence. 
 
