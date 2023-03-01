@@ -21,7 +21,7 @@ for the US, EU, and GIIPS countries by using Principal Components Analysis (PCA)
 dimensionality reduction in unsupervised machine learning and different conditional heteroskedasticity techniques 
 applied for the measurement of volatility in time series. Then, I estimated the impact of the US, EU, and GIIPS uncertanities
 on industrial production in the GIIPS countries with the utilization of Vector Autoregressive (VAR) method 
-and Impulse_Response (IR) analysis. 
+and Impulse Response (IR) analysis. 
 
 <nbsp>
 
