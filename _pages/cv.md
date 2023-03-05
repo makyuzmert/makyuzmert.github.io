@@ -14,13 +14,11 @@ Education
 * Ph.D in European Union Economics and Public Finance, Ankara University, 2023
 * M.A. in Economics, Tulane University, 2014
 * B.A. in Labor Economics and Industrial Relations, Ankara University, 2009
-* 
 
 Work experience
 ======
 * 2014-...: Research/Teaching Assistant
   * Ankara Yildirim Beyazit University
-  * 
 
 
 Publications
