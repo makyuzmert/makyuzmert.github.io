@@ -15,16 +15,16 @@ ANAMER will reinforce the position of AYBU and other partner universities as a c
 
 **Project Type**: Jean Monnet Center of Excellence
 
-Project Title: Heart of Anatolia European Center of Excellence
+**Project Title**: Heart of Anatolia European Center of Excellence
 
-Principal Investigator: Prof. Dr. Angelo Santagostino
+**Principal Investigator**: Prof. Dr. Angelo Santagostino
 
-Project ID: Erasmus+ project, 586967-EPP-1-2017-1-TREPPJMO-CoE
+**Project ID**: Erasmus+ project, 586967-EPP-1-2017-1-TREPPJMO-CoE
 
-Funding: European Commission
+**Funding**: European Commission
 
-Amount of Funding: 117.588 EUR
+**Amount of Funding**: 117.588 EUR
 
-Position: Project Assistant, Web-page Developer, Payment Administrative
+**Position**: Project Assistant, Web-page Developer, Payment Administrative
 
-Date: 1 September 2017 - 31 August 2020
+**Date**: 1 September 2017 - 31 August 2020
