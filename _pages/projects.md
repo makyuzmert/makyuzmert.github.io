@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-<nbsp>
 
 {% include base_path %}
