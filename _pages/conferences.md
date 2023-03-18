@@ -10,10 +10,8 @@ author_profile: true
 
 [46th Annual Conference of Eastern Economic Association](https://www.ramapo.edu/eea/), Massachusetts, US, 27 February - 01 March 2020
 
-[Download presentation](https://github.com/makyuzmert/makyuzmert.github.io/blob/master/files/Presentation_conference.pdf)
-
 **2) The Causality between Mortgage Credit and House Price: The Turkish Case**
-(Belgin Akcay, Mert Akyuz, Cagin Karul)
+(Belgin Akcay, Mert Akyuz, Cagin Karul) [Download presentation](https://eres.architexturez.net/doc/oai-eres-id-eres2021-28)
 
 [27th Annual Conference of the European Real Estate Society](https://eres.architexturez.net/doc/oai-eres-id-eres2021-28), Kaiserslautern, Germany, 2 - 5 June 2021
 
@@ -28,6 +26,6 @@ author_profile: true
 [91st Annual Meeting of Southern Economic Association](https://www.southerneconomic.org/event/7662b305-ad92-474d-8f2c-bce1240b9858/summary), Texas, US, 20 - 22 November 2021
 
 **5) Revisiting the Relationship of Credit with House Price in the Covid -19 Pandemic Period**
-(Belgin Akcay, Mert Akyuz)
+(Belgin Akcay, Mert Akyuz)  [Download abstract](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://jarefe.com/application/files/7016/5948/2210/Agenda_Abstracts_2022AsRES-AREUEA_20220803.pdf)
 
-[The American Real Estate and Urban Economics Association- Asian Real Estate Society Tokyo Conference 2022](https://jarefe.com/index.php/asres), Tokyo, Japan, 4 - 7 August 2022
+[26th Asian Real Estate Society (AsRES) Annual Conference: 2022 Asres-The American Real Estate and Urban Economics Association (AREUEA) Joint Conference](https://jarefe.com/index.php/asres), Tokyo, Japan, 4 - 7 August 2022
