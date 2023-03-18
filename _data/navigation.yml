@@ -3,8 +3,7 @@ main:
 
   - title: "Research"
     url: /research/
-    
-    
+        
  # - title: "Talks"
   #  url: /talks/   
   
@@ -26,5 +25,3 @@ main:
  # - title: "Guide"
   #  url: /markdown/
 
- - title: "Projects"
-    url: /projects/
