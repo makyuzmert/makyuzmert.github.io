@@ -8,7 +8,7 @@ In my PhD thesis, I analyzed the effect of macroeconomic uncertainty on economic
 
 My research interests focus on international economics, European Union, and socioeconomic determinants of health. 
 
-My research explores the impact of international trade on health and income inequality. One strand of research in this area investigates how trade liberalization, foreign direct investment, and globalization shape income inequality in the EU members and OECD countries. Another strand of research in this area understands the interaction between trade openness and health. My interest in the socioeconomic determinants of health informs policy makers on how international trade help increase healthy behaviour.These research areas uses advanced econometric methods  such as panel cointegration, estimation, and causality tests considering cross-section dependence. 
+My research explores the impact of international trade on health and income inequality. One strand of research in this area investigates how trade liberalization, foreign direct investment, and globalization shape income inequality in the EU members and OECD countries. Another strand of research in this area understands the interaction between trade openness and health. My interest in the socioeconomic determinants of health informs policy makers on how international trade help increase healthy behaviour. These research areas uses advanced econometric methods  such as panel cointegration, estimation, and causality tests considering cross-section dependence. 
 
 
 <nbsp>
