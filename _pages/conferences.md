@@ -10,6 +10,8 @@ author_profile: true
 
 [46th Annual Conference of Eastern Economic Association](https://www.ramapo.edu/eea/), Massachusetts, US, 27 February - 01 March 2020
 
+paperurl: '/files/Presentation_conference.pdf'
+
 **2) The Causality between Mortgage Credit and House Price: The Turkish Case**
 (Belgin Akcay, Mert Akyuz, Cagin Karul)
 
