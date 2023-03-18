@@ -13,7 +13,7 @@ ANAMER unites persons sharing interest and passion for integrated Europe. With t
 
 ANAMER will reinforce the position of AYBU and other partner universities as a centre of specialization in EU studies. ANAMER puts together human resources that otherwise will remain substantially not in touch among them. As actions, will take place in each one of the partner universities, the benefits of the project will flow through the network and display in anyone of the participating universities their effects. The project envisages coherent actions between research, seminars, workshops, panels and deliverables. Anyone of the four research programmes will be discussed in workshops, seminars, panels that will take place in anyone of the participating universities. Existing courses will be enriched by academic mobility that will include both professors of the participating universities and visiting professors. Adopting an interdisciplinary approach, the topic of “shared values” will be introduced in various courses starting with the second year. These activities will focus on topical issues related with EU political and economic development, with particular reference to Turkey’s accession issues and those related to it.
 
-Project Type: Jean Monnet Center of Excellence
+[Project Type:] Jean Monnet Center of Excellence
 
 Project Title: Heart of Anatolia European Center of Excellence
 
