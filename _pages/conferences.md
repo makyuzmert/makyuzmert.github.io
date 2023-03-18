@@ -26,6 +26,6 @@ author_profile: true
 [91st Annual Meeting of Southern Economic Association](https://www.southerneconomic.org/event/7662b305-ad92-474d-8f2c-bce1240b9858/summary), Texas, US, 20 - 22 November 2021
 
 **5) Revisiting the Relationship of Credit with House Price in the Covid -19 Pandemic Period**
-(Belgin Akcay, Mert Akyuz)  [Download abstract](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://jarefe.com/application/files/7016/5948/2210/Agenda_Abstracts_2022AsRES-AREUEA_20220803.pdf)
+(Belgin Akcay, Mert Akyuz)  [Download abstract](https://jarefe.com/application/files/7016/5948/2210/Agenda_Abstracts_2022AsRES-AREUEA_20220803.pdf)
 
 [26th Asian Real Estate Society (AsRES) Annual Conference: 2022 Asres-The American Real Estate and Urban Economics Association (AREUEA) Joint Conference](https://jarefe.com/index.php/asres), Tokyo, Japan, 4 - 7 August 2022
