@@ -13,15 +13,15 @@ main:
   - title: "Publications"
     url: /publications/
     
+   - title: "Projects"
+    url: /projects/ 
+    
  # - title: "Portfolio"
   #  url: /portfolio/
         
  # - title: "Blog Posts"
   #  url: /year-archive/
-    
-    - title: "Projects"
-    url: /projects/ 
-    
+      
   - title: "CV"
     url: /cv/
     
