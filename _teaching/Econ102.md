@@ -1,8 +1,8 @@
 ---
-title: "Introduction to Economics"
+title: "Introduction to Economics II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-Econ102
-venue: "Ankara Yildirim Beyazit University, Economics Department"
+venue: "AYBU, Economics Department"
 date: 2015-03-01
 ---
