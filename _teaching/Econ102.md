@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Economics II"
+title: "Introduction to Economics II (Recitation Session)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-Econ102
