@@ -17,9 +17,10 @@ Education
 
 Work experience
 ======
-* 2014-...: Research/Teaching Assistant
+* 2014-2023: Research/Teaching Assistant
   * Ankara Yildirim Beyazit University
-
+* 2014-2023: Lecturer
+  * Ankara Yildirim Beyazit University
 
 Publications
 ======
