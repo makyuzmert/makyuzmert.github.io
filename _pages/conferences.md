@@ -35,7 +35,7 @@ author_profile: true
 
 [26th Asian Real Estate Society (AsRES) Annual Conference: 2022 AsRES-The American Real Estate and Urban Economics Association (AREUEA) Joint Conference](https://jarefe.com/index.php/asres), Tokyo, Japan, 4 - 7 August 2022
 
-**6) Odd Prices at Retail Gasoline Stations: Evidence from a Developing and Inflationary Country**[Download Extended Abstract] (https://github.com/makyuzmert/makyuzmert.github.io/blob/master/files/CEVI_Extented_Abstract.pdf)
+**6) Odd Prices at Retail Gasoline Stations: Evidence from a Developing and Inflationary Country** [Download Extended Abstract]  (https://github.com/makyuzmert/makyuzmert.github.io/blob/master/files/CEVI_Extented_Abstract.pdf)
 
 (_Sidika Basci, Mert Akyuz_) 
 
