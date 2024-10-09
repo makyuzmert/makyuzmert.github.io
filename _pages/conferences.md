@@ -41,7 +41,7 @@ author_profile: true
 
 [The 15th International Conference of the International Society for the Intercommunication of New Ideas (ISINI)](https://www.isini.info/index.php/en/), Wroclaw, Poland, 15 May 2024.
 
-**7) Psychological Prices at Retail Gasoline Stations:Evidence from a Developing and Inflationary Country**
+**7) Psychological Prices at Retail Gasoline Stations:Evidence from a Developing and Inflationary Country** [Download presentation](https://github.com/makyuzmert/makyuzmert.github.io/blob/master/files/EMCEI_Extended_Abstract.pdf)
 
 (_Mert Akyuz, Sidika Basci_)
 
