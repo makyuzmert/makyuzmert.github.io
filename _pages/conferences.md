@@ -35,13 +35,13 @@ author_profile: true
 
 [26th Asian Real Estate Society (AsRES) Annual Conference: 2022 AsRES-The American Real Estate and Urban Economics Association (AREUEA) Joint Conference](https://jarefe.com/index.php/asres), Tokyo, Japan, 4 - 7 August 2022
 
-**6) Odd Prices at Retail Gasoline Stations: Evidence from a Developing and Inflationary Country**
+**6) Odd Prices at Retail Gasoline Stations: Evidence from a Developing and Inflationary Country**[Download Extended Abstract] (https://github.com/makyuzmert/makyuzmert.github.io/blob/master/files/CEVI_Extented_Abstract.pdf)
 
 (_Sidika Basci, Mert Akyuz_) 
 
 [The 15th International Conference of the International Society for the Intercommunication of New Ideas (ISINI)](https://www.isini.info/index.php/en/), Wroclaw, Poland, 15 May 2024.
 
-**7) Psychological Prices at Retail Gasoline Stations:Evidence from a Developing and Inflationary Country** [Download presentation](https://github.com/makyuzmert/makyuzmert.github.io/blob/master/files/EMCEI_Extended_Abstract.pdf)
+**7) Psychological Prices at Retail Gasoline Stations:Evidence from a Developing and Inflationary Country** [Download Extended Abstract](https://github.com/makyuzmert/makyuzmert.github.io/blob/master/files/EMCEI_Extended_Abstract.pdf)
 
 (_Mert Akyuz, Sidika Basci_)
 
