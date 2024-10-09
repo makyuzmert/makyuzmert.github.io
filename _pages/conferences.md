@@ -34,3 +34,15 @@ author_profile: true
 (_Belgin Akcay, Mert Akyuz_)  
 
 [26th Asian Real Estate Society (AsRES) Annual Conference: 2022 AsRES-The American Real Estate and Urban Economics Association (AREUEA) Joint Conference](https://jarefe.com/index.php/asres), Tokyo, Japan, 4 - 7 August 2022
+
+**6) Odd Prices at Retail Gasoline Stations: Evidence from a Developing and Inflationary Country**
+
+(_Sidika Basci, Mert Akyuz_) 
+
+[The 15th International Conference of the International Society for the Intercommunication of New Ideas (ISINI)](https://www.isini.info/index.php/en/), Wroclaw, Poland, 15 May 2024.
+
+**7) Psychological Prices at Retail Gasoline Stations:Evidence from a Developing and Inflationary Country**
+
+(_Mert Akyuz, Sidika Basci_)
+
+[6th Euro-Mediterranean Conference for Environmental Integration 2024 (EMCEI 2024)](https://2024.emcei.net/index.php?p=program), Marrakesh, Morocco, 16 May 2024.
