@@ -115,9 +115,24 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
-     {% if author.scopus_profile %}
-    <li><a href="https://www.scopus.com/User:{{ author.scopus }}"><i class="fab fa-scopus" aria-hidden="true"></i> Scopus Profile</a></li>
-{% endif %}
+     <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>Test Icon</title>
+</head>
+<body>
+    <ul>
+        <li>
+            <a href="https://www.scopus.com/User:123456">
+                <i class="fab fa-scopus" aria-hidden="true"></i> Scopus Profile
+            </a>
+        </li>
+    </ul>
+</body>
+</html>
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
