@@ -115,7 +115,9 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
-      <li><a href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"><i class="ai ai-scopus ai-3x" aria-hidden="true"></i> Scopus</a></li>
+      {% if author.scopus_profile %}
+    <li><a href="{{ author.scopus_profile }}"><i class="ai ai-scopus ai-fw"></i> Scopus Profile</a></li>
+{% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
