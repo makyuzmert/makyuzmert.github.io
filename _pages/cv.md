@@ -17,9 +17,7 @@ Education
 
 Work experience
 ======
-* 2025-...: Assist. Prof.
-  * Ankara Yildirim Beyazit University
-* 2014-2024: Research/Teaching Assistant
+* 2014-...: Research/Teaching Assistant
   * Ankara Yildirim Beyazit University
 
 Publications
