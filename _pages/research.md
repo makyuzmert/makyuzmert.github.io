@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-My research interests focus on applied econometrics, applied statistics, panel data, time series, macroeconomics, and health economics. 
+My research interests focus on applied econometrics, applied statistics, panel data, time series, and macroeconomics. 
 
 One strand of my research investigates the interaction between socioeconomic factors and mental and physical health. Another strand examines how trade liberalization, foreign direct investment, and globalization shape income inequality in EU member states and OECD countries. I employ advanced econometric methods such as panel and time series cointegration, estimation, and causality tests, considering cross-section dependence.
 
